@@ -7,6 +7,8 @@ Teórico 2
 Asignatura: Manejo y Estructura de Datos  
 Docente: MEd. Ing. Luis Alberto Herrera Mejía  
 
+link del repo : https://github.com/AR21036-esmeralda/GuiaIntegradoraMED.git
+
 
 
 ## Descripción General
